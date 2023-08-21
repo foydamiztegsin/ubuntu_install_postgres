@@ -103,6 +103,8 @@ sudo apt install python3-pip
 ![postgres](images/9.jpg)
 
 
+<br>
+
 
  - O'zgarish
 ![postgres](images/10.jpg)
