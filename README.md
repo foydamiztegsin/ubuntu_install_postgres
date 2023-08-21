@@ -58,13 +58,93 @@ sudo apt install python3-pip
 
 # PostgreSQL ga Local Kompyuterimizdan bog'lanish uchun kerakli dastur:
 
-[DBeaver](https://dbeaver.io/download/)  # Ishlatish juda qulay pgAdmindan ancha qulay
+[DBeaver](https://dbeaver.io/download/)  # Ishlatishda pgAdmindan ancha qulay
+
+
+<br>
+
+
+✅ DBeaver dasturini oching va rasmlardagi ketma ketlikda bajaring:
+
+![postgres](images/4.jpg)
+
+![postgres](images/5.jpg)
+
+
+<br>
+
+✅ Belgilangan joylarga ma'lumotlarni kiriting va Test Connection... ni bosing:
+
+
+![postgres](images/6.jpg)
+
+
+<br>
+
+✅ Ushbu Xatolik chiqishi kerak!:
+![postgres](images/7.jpg)
+
+
+<br>
+
+✅ Yuqoridagi xatolik serverdan ruxsat yuqligi sababli kelib chiqadi sozlash uchun serverdagi PostgreSQL ni sozlamalariga o'zgarishlar kiritamiz!
+ - Sizda versiyasi boshqa bo'lishi mumkin!
+![postgres](images/8.jpg)
+
+
+<br>
+
+✅ Rasmdagi qismni fayldan qidiring va ketma ketlikni bajaring!
+ - ❗️Faylga yozib bo'lganingizdan so'ng
+ - ```rb
+   ctrl+s
+   ctrl+x
+   Y
+   Enter # ni bosing va faylni saqlab chiqib ketadi
+   ```
+  
+
+- Avvalgi holati
+![postgres](images/9.jpg)
+
+- O'zgarish
+![postgres](images/10.jpg)
 
 
 
+<br>
+
+✅ Keyingi fayni sozlang!
+ - ❗️Faylga yozib bo'lganingizdan so'ng
+ - ```rb
+   ctrl+s
+   ctrl+x
+   Y
+   Enter # ni bosing va faylni saqlab chiqib ketadi
+   ```
+
+![postgres](images/11.jpg)
+
+- Avvalgi holati
+![postgres](images/12.jpg)
+
+- O'zgarish
+![postgres](images/13.jpg)
+
+
+<br>
+
+✅ O'zgarishlarni tugatib DBeaver Test Connection... ni qayta bosing xatolik yuqolishi va rasmdagidek chiqishi kerak:
+
+
+![postgres](images/14.jpg)
 
 
 
+<hr>
+ Mehnatimiz sizga foyda berayotgan bolsa GITHUB profilimizga obuna bo'ling va telegram kanalimizda reaksiyalarni qoldiring 👍
+ 
+# *E'tiboringiz uchun rahmat* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
 
 
 
