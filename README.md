@@ -103,8 +103,7 @@ sudo apt install python3-pip
 Avvalgi holati
 ![postgres](images/9.jpg)
 
-
-<br>
+<hr>
 
 
 O'zgarish
