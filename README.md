@@ -11,3 +11,9 @@
 sudo apt update
 sudo apt install postgresql
 ```
+
+
+✅ PostgreSQL ga bog'lanish:
+```rb
+sudo -i -u postgres
+```
