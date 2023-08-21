@@ -45,13 +45,21 @@ logout
 <br>
 
 
-✅ PostgreSQL ni DJANGO loyihada ishlatmoqchi bo'lsangiz o'rnating::
+✅ PostgreSQL ni DJANGO loyihada ishlatmoqchi bo'lsangiz o'rnating:
 ```rb
 # ❌ pip install pyscopg2 buni o'rnatmang
 pip install psycopg2-binary
 # agar pip da xato bersa
 sudo apt install python3-pip
 ```
+
+<br>
+
+
+# PostgreSQL ga Local Kompyuterimizdan bog'lanish uchun kerakli dastur:
+
+[DBeaver](https://dbeaver.io/download/)
+
 
 
 
