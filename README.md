@@ -96,11 +96,12 @@ sudo apt install python3-pip
 
 ✅ Rasmdagi qismni fayldan qidiring va ketma ketlikni bajaring!
  - ❗️Faylga yozib bo'lganingizdan so'ng
- - Avvalgi holati
+
+Avvalgi holati
 ![postgres](images/9.jpg)
 
 
- - O'zgarish
+O'zgarish
 ![postgres](images/10.jpg)
 
 ```rb
