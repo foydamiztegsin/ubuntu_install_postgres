@@ -109,7 +109,8 @@ Avvalgi holati
 O'zgarish
 ![postgres](images/10.jpg)
 
-- ❗️Faylga yozib bo'lganingizdan so'ng
+
+❗️Faylga yozib bo'lganingizdan so'ng
 ```rb
    ctrl+s
    ctrl+x
@@ -142,7 +143,8 @@ O'zgarish
 ![postgres](images/13.jpg)
 
 
- - ❗️Faylga yozib bo'lganingizdan so'ng
+
+❗️Faylga yozib bo'lganingizdan so'ng
   ```rb
    ctrl+s
    ctrl+x
