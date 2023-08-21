@@ -160,7 +160,8 @@ O'zgarish
 
 ![postgres](images/14.jpg)
 
-- Finishni bosing bazaga ualansiz bemalol bazani boshqarishingiz mumkin 🥳
+
+✅ Finishni bosing bazaga ulanasiz bemalol bazani boshqarishingiz mumkin 🥳
 ![postgres](images/15.jpg)
 
 
