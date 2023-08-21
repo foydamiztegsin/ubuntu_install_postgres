@@ -48,7 +48,7 @@ logout
 ✅ PostgreSQL ni DJANGO loyihada ishlatmoqchi bo'lsangiz o'rnating: (❌ pip install pyscopg2) buni o'rnatmang:
 ```rb
 pip install psycopg2-binary
-agar pip da xato bersa
+# agar pip da xato bersa
 sudo apt install python3-pip
 ```
 
