@@ -126,8 +126,16 @@ O'zgarish
 
 ![postgres](images/11.jpg)
 
+
+<br>
+
+
 - Avvalgi holati
 ![postgres](images/12.jpg)
+
+
+<hr>
+
 
 - O'zgarish
 ![postgres](images/13.jpg)
