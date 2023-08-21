@@ -5,6 +5,7 @@
 
 
  <hr>
+ 
 ✅ Ubuntu 20.04 yoki undan keyingi versiyalar uchun:
 ```rb
 sudo apt update
