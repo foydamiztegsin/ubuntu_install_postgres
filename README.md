@@ -58,7 +58,7 @@ sudo apt install python3-pip
 
 # PostgreSQL ga Local Kompyuterimizdan bog'lanish uchun kerakli dastur:
 
-[DBeaver](https://dbeaver.io/download/)
+[DBeaver](https://dbeaver.io/download/)  # Ishlatish juda qulay pgAdmindan ancha qulay
 
 
 
