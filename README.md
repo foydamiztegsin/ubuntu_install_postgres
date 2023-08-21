@@ -95,7 +95,7 @@ sudo apt install python3-pip
 <br>
 
 ✅ Rasmdagi qismni fayldan qidiring va ketma ketlikni bajaring!
- - ❗️Faylga yozib bo'lganingizdan so'ng
+
 
 
 <br>
@@ -109,6 +109,7 @@ Avvalgi holati
 O'zgarish
 ![postgres](images/10.jpg)
 
+- ❗️Faylga yozib bo'lganingizdan so'ng
 ```rb
    ctrl+s
    ctrl+x
@@ -121,7 +122,7 @@ O'zgarish
 
 
 ✅ Keyingi fayni sozlang!
- - ❗️Faylga yozib bo'lganingizdan so'ng
+
 
 
 ![postgres](images/11.jpg)
@@ -140,6 +141,8 @@ O'zgarish
 - O'zgarish
 ![postgres](images/13.jpg)
 
+
+ - ❗️Faylga yozib bo'lganingizdan so'ng
   ```rb
    ctrl+s
    ctrl+x
