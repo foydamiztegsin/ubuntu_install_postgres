@@ -155,6 +155,15 @@ O'zgarish
 
 <br>
 
+
+✅ PostgreSQL ni qayta ishga tushiring:
+```rb
+sudo systemctl restart postgresql
+ ```
+
+
+<br>
+
 ✅ O'zgarishlarni tugatib DBeaver Test Connection... ni qayta bosing xatolik yuqolishi va rasmdagidek chiqishi kerak:
 
 
